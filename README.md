@@ -1,1 +1,1 @@
-Projeto desenvolvido para resolver o desafio do curdo DSLearn com a finalidade de criar um CRUD de clientes.
+Projeto desenvolvido para resolver o desafio do curso DSLearn com a finalidade de criar um CRUD de clientes.
